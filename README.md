@@ -32,8 +32,8 @@ A centralized software application designed to streamline restaurant operations,
 ## Acceptance criteria
 
  - FR-01: Saving a new order correctly displays table details and items in the active queue.
- - FR-02: Submitting an order instantly updates the kitchen display queue.
- - FR-03: Checking out generates precise bill totals and marks payment status as paid.
+ - FR-02: Submitting an order instantly within 5 seconds updates the kitchen display queue.
+ - FR-03: Checking out and generates precise bill  and marks payment status as paid.
 
 ## Assumptions and open questions
 
